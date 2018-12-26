@@ -10,7 +10,7 @@
 
 연말 계획 : 고향에 가서 아마 성당을 갈 거 같네요.
 
-사진 :  ![jeon1](C:\Users\student\Desktop\jeon1.jpg)
+사진 :  
 
 
 
@@ -22,7 +22,7 @@
 
 연말계획 : 스마트폰 변경 + 새해를 맞이해 신년 목표를 세우고 의지를 다잡고 싶다.
 
-사진 : ![50434009-fa07e100-091e-11e9-90c7-e94953a620a6](https://user-images.githubusercontent.com/45934125/50434462-9aaad080-0920-11e9-8cfc-5b4a0472596d.jpg)
+사진 : ![50433856-1b1c0200-091e-11e9-956d-092079338a6e](https://user-images.githubusercontent.com/45934125/50434558-fd9c6780-0920-11e9-8add-f8916bc47c9a.jpg)
 
 
 
@@ -39,7 +39,8 @@
 
 연말 계획 : 제주 여행
 
-사진 : ![50434036-19067300-091f-11e9-9a20-2680c848edef](C:\Users\student\Desktop\50434036-19067300-091f-11e9-9a20-2680c848edef.jpg)
+사진 : ![Uploading 50434036-19067300-091f-11e9-9a20-2680c848edef.jpg…]()
+
 
 
 
@@ -51,7 +52,8 @@
 
 연말 계획 및 12월 31일에 하고 싶은 것 : 여행
 
-사진 : ![다운로드](C:\Users\student\Desktop\다운로드.jpg)
+사진 : ![default](https://user-images.githubusercontent.com/45934125/50434593-23c20780-0921-11e9-81b1-c31f8f95fd60.jpg)
+
 
 
 
@@ -63,11 +65,10 @@
 
 성격 : 성격이 뭘까 고민중이었는데 옆에서 "혀가 김"이라고 알려줌
 
-특징을 나타 낼 수 있는 사진
-
 연말계획 : 20년지기 친구와 연말파티를 즐길것입니다.
 
-사진 : ![me](C:\Users\student\Desktop\me.gif)
+사진 : ![me](https://user-images.githubusercontent.com/45934125/50434529-e3628980-0920-11e9-9e89-be0175e9831f.gif)
+
 
 
 
@@ -83,5 +84,6 @@
 
 연말 계획 : 데이트
 
-사진 : ![50434009-fa07e100-091e-11e9-90c7-e94953a620a6](C:\Users\student\Desktop\50434009-fa07e100-091e-11e9-90c7-e94953a620a6.jpg)
+사진 : ![Uploading 50434009-fa07e100-091e-11e9-90c7-e94953a620a6.jpg…]()
+
 
