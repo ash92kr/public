@@ -22,7 +22,8 @@
 
 연말계획 : 스마트폰 변경 + 새해를 맞이해 신년 목표를 세우고 의지를 다잡고 싶다.
 
-사진 : [![박명수](https://user-images.githubusercontent.com/43332543/50433856-1b1c0200-091e-11e9-956d-092079338a6e.jpg)](https://user-images.githubusercontent.com/43332543/50433856-1b1c0200-091e-11e9-956d-092079338a6e.jpg)
+사진 : ![50434009-fa07e100-091e-11e9-90c7-e94953a620a6](https://user-images.githubusercontent.com/45934125/50434462-9aaad080-0920-11e9-8cfc-5b4a0472596d.jpg)
+
 
 
 
